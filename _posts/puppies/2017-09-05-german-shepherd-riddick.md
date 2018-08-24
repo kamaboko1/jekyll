@@ -3,7 +3,7 @@ layout: news
 title: "Its good to be king!"
 meta: Riddick is a 6 month old all black German Shepard from Black Dog Farm!
 source: https://www.total-german-shepherd.com/its-good-to-be-king-meet-german-shepard-riddick.html
-category: news
+category: puppies
 ---
 
 Hello, this is Riddick of Black Dog Farm. This picture is titled: Its good to be king!

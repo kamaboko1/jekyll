@@ -3,7 +3,7 @@ layout: news
 title: My Female German Shepherd, Izzie
 meta: Izzie is a very intelligent and extremely athletic dog. 
 source: https://www.total-german-shepherd.com/my-female-german-shepherd-izzie.html
-category: news
+category: puppies
 ---
 
 Izzie is a 21 month old female. Izzie is a very intelligent and extremely athletic dog. 

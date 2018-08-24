@@ -3,7 +3,7 @@ layout: news
 title: "Tallahassee's Famous Rosie"
 meta: This is Rosie. She is an ultra loving and extra cute puppy.
 source: https://www.total-german-shepherd.com/tallahassees-famous-rosie.html
-category: news
+category: puppies
 ---
 
 This is Rosie. She is an ultra loving and extra cute puppy that everyone in town knows and loves. She is now 5 months old and has the title "Tallahassee's Famous Rosie". 
