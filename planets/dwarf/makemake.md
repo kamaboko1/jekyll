@@ -8,6 +8,6 @@ discovered: 2005-03-31
 orbit: 309 years
 radius: 715 km
 tilt: 3
-image:
+image: makemake.jpg
 source: https://en.wikipedia.org/wiki/Makemake
 ---

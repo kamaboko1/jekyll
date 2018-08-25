@@ -8,6 +8,6 @@ discovered: unknown
 orbit: 87 days
 radius: 2,439 km
 tilt: 3
-image:
+image: mercury.jpg
 source: https://en.wikipedia.org/wiki/Mercury_(planet)
 ---

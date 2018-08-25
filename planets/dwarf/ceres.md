@@ -8,6 +8,6 @@ discovered: 1801-01-01
 orbit: 4.6 years
 radius: 487km 
 tilt: 3
-image:
+image: ceres.jpg
 source: https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)
 ---

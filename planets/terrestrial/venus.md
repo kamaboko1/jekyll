@@ -8,6 +8,6 @@ discovered: unknown
 orbit: 224.7 days
 radius: 6,051 km
 tilt: 3
-image:
+image: venus.jpg
 source: https://en.wikipedia.org/wiki/Venus
 ---

@@ -8,6 +8,6 @@ discovered: unknown
 orbit: 686 days
 radius: 3,389 km
 tilt: 3
-image:
+image: mars.jpg
 source: https://en.wikipedia.org/wiki/Mars
 ---
