@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Curiosity Rover Makes Big Water Discovery in Mars Dirt
 meta: Future Mars explorers may be able to get all the water they need
 source: https://www.space.com/22949-mars-water-discovery-curiosity-rover.html

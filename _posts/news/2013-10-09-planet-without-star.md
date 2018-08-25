@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: A Strange Lonely Planet Found without a Star
 meta: An international team of astronomers has discovered an exotic young planet that is not orbiting a star. 
 source: https://www.ifa.hawaii.edu/info/press-releases/LonelyPlanet/
